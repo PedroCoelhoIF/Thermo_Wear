@@ -1,0 +1,18 @@
+name: thermo_wear
+description: A Flutter package for Wear OS with ambient temperature sensor integration and tilt gesture detection.
+version: 0.0.1
+
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sensors_plus: ^4.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
